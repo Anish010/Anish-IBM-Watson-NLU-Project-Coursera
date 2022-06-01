@@ -8,10 +8,9 @@
   - [Technical Skills](#technical-skills)
   - [Frameworks, Platforms, Libraries](#frameworks,-platforms,-libraries)
   - [Version Control](#version-control)
-  - [Cloud](#cloud)
+  - [Cloud/Features](#cloud/features)
   - [Browsers](#browsers)
   - [IDEs/Editors](#ides/editors)
-  - [Acknowledgements](#acknowledgements)
 - [Author](#author)
   - [Connect With Me](#connect-with-me)
   - [Github Stats](#github-stats)
@@ -40,7 +39,7 @@ The existing code has been uploaded to a github repository. Your task is to fork
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 </br>
-### Cloud
+### Cloud / Cloud Features
 <kbd><img style="border:2px solid black;" src="https://iam.cloud.ibm.com/ui/ibm-cloud.svg" alt="IBM Cloud" width="150" height="30"></kbd>
 <kbd><img style="border:1px solid black;" src="https://www.cloudfoundry.org/wp-content/uploads/cloudfoundry-horizontal-color-thumbnail.jpg" alt="Cloud Foundary" width="150" height="30"></kbd>
 <kbd><img style="border:1px solid black;" src="https://media.xconomy.com/wordpress/wp-content/images/2020/02/20103203/IBM-Watson-logo11.png" alt="IBM Watson" width="110" height="35"></kbd>
