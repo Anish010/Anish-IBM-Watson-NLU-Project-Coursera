@@ -19,9 +19,9 @@
 ## Overview
 ### Scenario
 
-In this scenario, you have been hired by a research company to finish building a new site that uses IBM Watson services to find sentiments and emotions in text. The application was built using Express.js in the backend and React.js in the frontend application. The previous developer had to take time off due to health reasons and so you are brought in to finish the half done code.
+In this scenario, i have been hired by a research company to finish building a new site that uses IBM Watson services to find sentiments and emotions in text. The application was built using Express.js in the backend and React.js in the frontend application. The previous developer had to take time off due to health reasons and so I had been brought in to finish the half done code.
 
-The existing code has been uploaded to a github repository. Your task is to fork the repository to your own Github account and then use the lab environment to finish the requirements. You are then asked to publish the application to IBM Cloud using the Cloud Foundry service.
+The existing code has been uploaded to a github repository. My task is to fork the repository to my own Github account and then use the lab environment to finish the requirements. Then I have to publish the application to IBM Cloud using the Cloud Foundry service.
 
 ### Tasks
 
@@ -93,7 +93,6 @@ The existing code has been uploaded to a github repository. Your task is to fork
 
 ### Acknowledgement
 
- **Education**
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 ![IBM](https://a11ybadges.com/badge?logo=ibm)
 
