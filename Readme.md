@@ -41,7 +41,7 @@ The existing code has been uploaded to a github repository. Your task is to fork
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 </br>
 ### Cloud
-<img style="border:2px solid black;" src="https://iam.cloud.ibm.com/ui/ibm-cloud.svg" alt="IBM Cloud" width="150" border="4"><img style="border:1px solid black;" src="https://www.cloudfoundry.org/wp-content/uploads/cloudfoundry-horizontal-color-thumbnail.jpg" alt="Cloud Foundary" width="150" border="4"><img style="border:1px solid black;" src="https://media.xconomy.com/wordpress/wp-content/images/2020/02/20103203/IBM-Watson-logo11.png" alt="IBM Watson" width="150" border="4">
+<img style="border:2px solid black;" src="https://iam.cloud.ibm.com/ui/ibm-cloud.svg" alt="IBM Cloud" width="150"><img style="border:1px solid black;" src="https://www.cloudfoundry.org/wp-content/uploads/cloudfoundry-horizontal-color-thumbnail.jpg" alt="Cloud Foundary" width="150"><img style="border:1px solid black;" src="https://media.xconomy.com/wordpress/wp-content/images/2020/02/20103203/IBM-Watson-logo11.png" alt="IBM Watson" width="150">
 
 ### Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
