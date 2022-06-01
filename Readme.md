@@ -3,6 +3,7 @@
 
 - [Overview](#overview)
   - [The Scenario](#scenario)
+  - [The Task](#task)
   - [Screenshot](#screenshot)
   - [Link](#Link)
   - [Technical Skills](#technical-skills)
@@ -20,6 +21,33 @@
 In this scenario, you have been hired by a research company to finish building a new site that uses IBM Watson services to find sentiments and emotions in text. The application was built using Express.js in the backend and React.js in the frontend application. The previous developer had to take time off due to health reasons and so you are brought in to finish the half done code.
 
 The existing code has been uploaded to a github repository. Your task is to fork the repository to your own Github account and then use the lab environment to finish the requirements. You are then asked to publish the application to IBM Cloud using the Cloud Foundry service.
+
+### The Tasks
+
+- Sign up for IBM Cloud account and create a Watson Natural language Understanding service
+-Create an instance of the Natural Language Understanding (NLU) service.
+
+**Part A: Fork the Git repository to have the server and client code you need to start**
+
+-Create your own copy of the git repository which has the code you need to build up on.
+-Clone the repository into the theia environment
+
+**Part B: npm install the necessary packages**
+
+-Change to the React client directory (sentimentanalyzeClient) and install all the packages required in your local environment for the React application to run.
+-Change to the express JS server directory (sentimentAnalyzeServer) and install all the packages required in your local environment for the server to run.
+
+**Part C: Install IBM Watson package and set up the .env file**
+
+-Install the ibmwatson package in your server and create .env file to add the credentials to point to your Watson NLU credentials, in the sentimentAnalyzeServer directory.
+-Make changes in sentimentAnalyzerServer.js to create an instance of NaturalLanguageUnderstanding using the credential from the .env file using dotenv package.
+
+**Part D: Create endpoints to cater to the URL and text input from the React client**
+
+-Create four different end points each of which can use the same instance of NLU
+-Run the server and the React application to see if the desired output is displayed
+-Render the analysis from the server color formatted depending on the sentiment analyzed.
+-Render the confidence level of all the emotions in the text or url sent.
 
 ### Screenshot
 
