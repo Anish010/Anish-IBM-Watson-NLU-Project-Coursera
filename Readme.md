@@ -22,7 +22,10 @@ In this scenario, you have been hired by a research company to finish building a
 The existing code has been uploaded to a github repository. Your task is to fork the repository to your own Github account and then use the lab environment to finish the requirements. You are then asked to publish the application to IBM Cloud using the Cloud Foundry service.
 
 ### Screenshot
-![Dekstop Design preview for Se](./screenshots/desktop.png)
+![Dekstop Design preview for Analyze Emotion Points positive](./screenshots/Analyze Emotion Points positive.png)
+![Dekstop Design preview for Analyze Emotions Points negative](./screenshots/Analyze Emotions Points negative.png)
+![Dekstop Design preview for Analyze Sentiment negative](./screenshots/Analyze Sentiment negative.png)
+![Dekstop Design preview for Sentiment Analyze positive](./screenshots/Sentiment Analyze positive.png)
 </br>
 ### Link
 - Solution URL : [https://github.com/Anish010/cazgi-IBM-Watson-NLU-Project.git]
