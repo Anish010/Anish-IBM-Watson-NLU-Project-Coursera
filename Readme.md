@@ -23,10 +23,10 @@ The existing code has been uploaded to a github repository. Your task is to fork
 
 ### Screenshot
 
-![Dekstop Design preview for Analyze Emotion Points positive](./Screenshots/Analyze Emotion Points positive.png)
-![Dekstop Design preview for Analyze Emotions Points negative](./Screenshots/Analyze Emotions Points negative.png)
-![Dekstop Design preview for Analyze Sentiment negative](./Screenshots/Analyze Sentiment negative.png)
-![Dekstop Design preview for Sentiment Analyze positive](./Screenshots/Sentiment Analyze positive.png)
+![Dekstop Design preview for Analyze Emotion Points positive](./Screenshots/Analyze-Emotion-Points-positive.png)
+![Dekstop Design preview for Analyze Emotions Points negative](./Screenshots/Analyze-Emotions-Points-negative.png)
+![Dekstop Design preview for Analyze Sentiment negative](./Screenshots/Analyze-Sentiment-negative.png)
+![Dekstop Design preview for Sentiment Analyze positive](./Screenshots/Sentiment-Analyze-positive.png)
 
 ### Link
 - Solution URL : [https://github.com/Anish010/cazgi-IBM-Watson-NLU-Project.git]
