@@ -8,7 +8,7 @@
   - [Technical Skills](#technical-skills)
   - [Frameworks, Platforms, Libraries](#frameworks,-platforms,-libraries)
   - [Version Control](#version-control)
-  - [Tools](#tools)
+  - [Cloud](#cloud)
   - [Browsers](#browsers)
   - [IDEs/Editors](#ides/editors)
   - [Acknowledgements](#acknowledgements)
@@ -28,7 +28,7 @@ The existing code has been uploaded to a github repository. Your task is to fork
 ### Link
 - Solution URL : [https://github.com/Anish010/cazgi-IBM-Watson-NLU-Project.git]
 - Live Site URL : [https://anish-101-sentiment-analyzer-timely-hyena-za.eu-gb.mybluemix.net/]
-</br>
+
 ### Technical Skills
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -41,8 +41,7 @@ The existing code has been uploaded to a github repository. Your task is to fork
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 </br>
 ### Cloud
-<img src="https://iam.cloud.ibm.com/ui/ibm-cloud.svg" alt="IBM Cloud" width="100"/>
-[![IBM Cloud](https://iam.cloud.ibm.com/ui/ibm-cloud.svg)](https://iam.cloud.ibm.com/ui/ibm-cloud.svg "IBM Cloud")
+<img src="https://iam.cloud.ibm.com/ui/ibm-cloud.svg" alt="IBM Cloud" width="400" border="3"/>
 [![Cloud Foundary](https://www.cloudfoundry.org/wp-content/uploads/cloudfoundry-horizontal-color-thumbnail.jpg)](https://www.cloudfoundry.org/wp-content/uploads/cloudfoundry-horizontal-color-thumbnail.jpg "Cloud Foundary")
 ![IBM Watson](https://a11ybadges.com/badge?logo=ibmwatson)
 </br>
