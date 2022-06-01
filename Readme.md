@@ -35,25 +35,21 @@ The existing code has been uploaded to a github repository. Your task is to fork
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 </br>
 ### Frameworks, Platforms, Libraries
-![IBM](https://a11ybadges.com/badge?logo=ibm)
-![IBM Watson](https://a11ybadges.com/badge?logo=ibmwatson)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 </br>
 ### Cloud
-<div width="80">[![Cloud Foundary](https://www.cloudfoundry.org/wp-content/uploads/cloudfoundry-horizontal-color-thumbnail.jpg)](https://www.cloudfoundry.org/wp-content/uploads/cloudfoundry-horizontal-color-thumbnail.jpg "Cloud Foundary")</div>
+[![IBM Cloud](https://iam.cloud.ibm.com/ui/ibm-cloud.svg)](https://iam.cloud.ibm.com/ui/ibm-cloud.svg "IBM Cloud")
+[![Cloud Foundary](https://www.cloudfoundry.org/wp-content/uploads/cloudfoundry-horizontal-color-thumbnail.jpg)](https://www.cloudfoundry.org/wp-content/uploads/cloudfoundry-horizontal-color-thumbnail.jpg "Cloud Foundary")
+![IBM Watson](https://a11ybadges.com/badge?logo=ibmwatson)
 </br>
 ### Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 </br>
-### Tools
-![Vercel](https://therealsujitk-vercel-badge.vercel.app/?app=weather-app-sigma-pied&style=for-the-badge)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-</br>
+
 ### Browsers
 ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
