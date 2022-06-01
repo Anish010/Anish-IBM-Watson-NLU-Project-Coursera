@@ -26,6 +26,7 @@ The existing code has been uploaded to a github repository. Your task is to fork
 ![Dekstop Design preview for Analyze Emotions Points negative](./screenshots/Analyze Emotions Points negative.png)
 ![Dekstop Design preview for Analyze Sentiment negative](./screenshots/Analyze Sentiment negative.png)
 ![Dekstop Design preview for Sentiment Analyze positive](./screenshots/Sentiment Analyze positive.png)
+
 </br>
 ### Link
 - Solution URL : [https://github.com/Anish010/cazgi-IBM-Watson-NLU-Project.git]
