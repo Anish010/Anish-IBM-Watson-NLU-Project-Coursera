@@ -12,6 +12,7 @@
   - [Cloud/Features](#cloud/features)
   - [Browsers](#browsers)
   - [IDEs/Editors](#ides/editors)
+  - [Acknoledgement](#Acknowledgement)
 - [Author](#author)
   - [Connect With Me](#connect-with-me)
   - [Github Stats](#github-stats)
@@ -89,6 +90,11 @@ The existing code has been uploaded to a github repository. Your task is to fork
 ### IDEs/Editors
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 </br>
+
+### Acknowledgement
+![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
+![IBM](https://a11ybadges.com/badge?logo=ibm)
+
 ## Authors
 ### Connect With Me
 <a href="https://www.linkedin.com/in/anish-kumar-mohanty-68a019216/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Anish | LinkedIn"/></a>
