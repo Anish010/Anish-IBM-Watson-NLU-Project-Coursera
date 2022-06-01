@@ -3,7 +3,7 @@
 
 - [Overview](#overview)
   - [The Scenario](#scenario)
-  - [The Task](#task)
+  - [The Task](#the-task)
   - [Screenshot](#screenshot)
   - [Link](#Link)
   - [Technical Skills](#technical-skills)
