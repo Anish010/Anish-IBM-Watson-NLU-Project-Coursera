@@ -93,7 +93,7 @@ The existing code has been uploaded to a github repository. Your task is to fork
 
 ### Acknowledgement
 
-## Education
+ **Education**
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 ![IBM](https://a11ybadges.com/badge?logo=ibm)
 
