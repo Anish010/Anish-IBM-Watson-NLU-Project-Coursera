@@ -16,7 +16,7 @@
   - [Connect With Me](#connect-with-me)
   - [Github Stats](#github-stats)
 ## Overview
-### Description
+### Scenario
 
 In this scenario, you have been hired by a research company to finish building a new site that uses IBM Watson services to find sentiments and emotions in text. The application was built using Express.js in the backend and React.js in the frontend application. The previous developer had to take time off due to health reasons and so you are brought in to finish the half done code.
 
@@ -41,14 +41,13 @@ The existing code has been uploaded to a github repository. Your task is to fork
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 </br>
 ### Cloud
-<img src="https://iam.cloud.ibm.com/ui/ibm-cloud.svg" alt="IBM Cloud" width="400" border="3"/>
-[![Cloud Foundary](https://www.cloudfoundry.org/wp-content/uploads/cloudfoundry-horizontal-color-thumbnail.jpg)](https://www.cloudfoundry.org/wp-content/uploads/cloudfoundry-horizontal-color-thumbnail.jpg "Cloud Foundary")
+<img src="https://iam.cloud.ibm.com/ui/ibm-cloud.svg" alt="IBM Cloud" width="200" border="3"/>
+<img src="https://www.cloudfoundry.org/wp-content/uploads/cloudfoundry-horizontal-color-thumbnail.jpg" alt="Cloud Foundary" widht="200" border="3"/>
 ![IBM Watson](https://a11ybadges.com/badge?logo=ibmwatson)
-</br>
+
 ### Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-</br>
 
 ### Browsers
 ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
