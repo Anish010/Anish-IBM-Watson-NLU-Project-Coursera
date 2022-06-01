@@ -41,7 +41,9 @@ The existing code has been uploaded to a github repository. Your task is to fork
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 </br>
 ### Cloud
-<div width="20">[![IBM Cloud](https://iam.cloud.ibm.com/ui/ibm-cloud.svg)](https://iam.cloud.ibm.com/ui/ibm-cloud.svg "IBM Cloud")</div>
+<div width="20">
+  [![IBM Cloud](https://iam.cloud.ibm.com/ui/ibm-cloud.svg)](https://iam.cloud.ibm.com/ui/ibm-cloud.svg "IBM Cloud")
+</div>
 [![Cloud Foundary](https://www.cloudfoundry.org/wp-content/uploads/cloudfoundry-horizontal-color-thumbnail.jpg)](https://www.cloudfoundry.org/wp-content/uploads/cloudfoundry-horizontal-color-thumbnail.jpg "Cloud Foundary")
 ![IBM Watson](https://a11ybadges.com/badge?logo=ibmwatson)
 </br>
