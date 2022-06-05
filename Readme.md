@@ -76,9 +76,9 @@ The existing code has been uploaded to a github repository. My task is to fork t
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 </br>
 ### Cloud / Cloud Features
-<kbd><img style="border:2px solid black;" src="https://iam.cloud.ibm.com/ui/ibm-cloud.svg" alt="IBM Cloud" width="150" height="30"></kbd>
-<kbd><img style="border:1px solid black;" src="https://www.cloudfoundry.org/wp-content/uploads/cloudfoundry-horizontal-color-thumbnail.jpg" alt="Cloud Foundary" width="150" height="30"></kbd>
-<kbd><img style="border:1px solid black;" src="https://media.xconomy.com/wordpress/wp-content/images/2020/02/20103203/IBM-Watson-logo11.png" alt="IBM Watson" width="110" height="35"></kbd>
+<kbd><img style="border:2px solid black" src="https://iam.cloud.ibm.com/ui/ibm-cloud.svg" alt="IBM Cloud" width="150" height="30"></kbd>
+<kbd><img style="border:1px solid black" src="https://www.cloudfoundry.org/wp-content/uploads/cloudfoundry-horizontal-color-thumbnail.jpg" alt="Cloud Foundary" width="150" height="30"></kbd>
+<kbd><img style="border:1px solid black" src="https://media.xconomy.com/wordpress/wp-content/images/2020/02/20103203/IBM-Watson-logo11.png" alt="IBM Watson" width="110" height="35"></kbd>
 
 ### Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
