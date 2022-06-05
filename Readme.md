@@ -9,7 +9,7 @@
   - [Technical Skills](#technical-skills)
   - [Frameworks, Platforms, Libraries](#frameworks,-platforms,-libraries)
   - [Version Control](#version-control)
-  - [Cloud/Features](#cloud/features)
+  - [Cloud/Features](#cloud-/-cloud-features)
   - [Browsers](#browsers)
   - [IDEs/Editors](#ides/editors)
   - [Acknoledgement](#Acknowledgement)
